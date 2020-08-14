@@ -7,6 +7,10 @@
 - We will even gain insight into accessibility concepts and how using different elements changes how those using assistive technologies perceive our webpages by testing our project with a screen reader.
 - Have a solid understanding of how you can write better, semantic HTML.
 
+## Useful tool
+
+- ChromeVox extention: Screen Reader, we can use it to verify the accessiblity of the website.
+
 ## Credits
 
 All credits go for Pluralsight course Semantic HTML by Susan Simkins
