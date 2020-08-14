@@ -24,6 +24,14 @@
 
 - Use Sectioning Elements to create logical sections
 - Use headings to create implicit sections
+
+## Final Notes on Semanticism
+
+- Machines are not smart enough to understand the meaning of content
+- HTML elements (when possible) should be descriptive of content
+- There is not always one way to do it (... but try your best :))
+- Honot the ourline with headings and sectioning elements
+- Help a machine, help a human.
   
 ## Credits
 
