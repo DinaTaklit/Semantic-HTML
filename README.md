@@ -19,7 +19,12 @@
   
   - yes: Using appropriate Heading Level Tag
   - no: Use `<p>` tag
+  
+### Outline Summary
 
+- Use Sectioning Elements to create logical sections
+- Use headings to create implicit sections
+  
 ## Credits
 
 All credits go for Pluralsight course Semantic HTML by Susan Simkins
