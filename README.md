@@ -11,6 +11,15 @@
 
 - ChromeVox extention: Screen Reader, we can use it to verify the accessiblity of the website.
 
+## Some notes
+
+### Heading
+
+- Is it starting new section?
+  
+  - yes: Using appropriate Heading Level Tag
+  - no: Use `<p>` tag
+
 ## Credits
 
 All credits go for Pluralsight course Semantic HTML by Susan Simkins
